@@ -1,5 +1,7 @@
 # launch-cheatsheet
 
+how smart people launch things.
+
 ## Advice
 
 - Wesbos: https://www.youtube.com/watch?v=KBlOxBQrP9I 
