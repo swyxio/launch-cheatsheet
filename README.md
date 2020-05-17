@@ -79,6 +79,11 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
 - Philip Kiely
   - https://philipkiely.com/wfsd/
   
+  
+## Post Launch
+
+- giveaway/pay what you want? https://news.ycombinator.com/item?id=23073126
+
 ## Long Game
 
 ### Email
