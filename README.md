@@ -2,12 +2,17 @@
 
 ## Advice
 
-- Wesbos:
-  - https://www.youtube.com/watch?v=KBlOxBQrP9I 
-    - 5 parts quality content
-    - 2 parts personality + reputation
-    - 2 parts community
-    - 2 parts good marketing
+- Wesbos: https://www.youtube.com/watch?v=KBlOxBQrP9I 
+  - 5 parts quality content
+    - pick something hard-ish, that they'd take a while to learn
+    - no brainer value - is it worth it? need to convince your boss? calculate ROI
+    - pick something that sells itself
+    - solves a pain
+  - 2 parts personality + reputation
+  - 2 parts community
+  - 2 parts good marketing
+    - who is this for?
+    - 
 
 ## Infoproducts
 
