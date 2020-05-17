@@ -81,9 +81,26 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
   
 ## Long Game
 
+### Email
+
 - wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20min
   - build a huge email list by putting up free courses
   - it establishes credibility with numbers
   - consistency: buy without reading website bc they loved prior work
   - discoverability - free on youtube, signin to download exercises
+    
+### Twitter
  
+- wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 34min
+  - twitter: bring value TO twitter. they want to stay on twitter
+    - hot tips :fire: nuggets
+  - creating content for your specific medium builds an audience that both trusts you and is hungry for more
+  - as a creator you want to be on people's radars - say thanks, you open up dialog to get to know them better. textexpander snippet to give random thanks
+  
+## Getting Started
+
+- wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 37mins
+  - small scale tests, blogpost, guides, downloads, see what sticks
+  - do 20-30 tests
+  - dont just copy people - "make it a thing" - bundle into a package and put a domain name on it
+  - all about momentum - no home runs, grind it out
