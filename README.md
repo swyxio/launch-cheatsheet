@@ -8,6 +8,7 @@
     - no brainer value - is it worth it? need to convince your boss? calculate ROI
     - pick something that sells itself
     - solves a pain
+    - evergreen - flexbox is done
   - 2 parts personality + reputation
   - 2 parts community
   - 2 parts good marketing
@@ -16,7 +17,27 @@
     - Sell hard but not too hard - social proof works
     - Launch Price - 4890 already sold! live number
     - TELL THEM its good
-    
+
+## Affiliates
+
+- wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
+  - offer high cut for affiliates. 2 week cookie.
+  - the right people are key. 6-7 affiliates.
+  - something shady with adblockers idk
+
+## Bundles
+
+- black friday deal with other authors. High value > deep discount.
+- 4 day sale.
+- 3 books + videos for 49, 20k in sales
+
+## Podcast Sponsorship
+
+wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
+
+- Find people who run podcasts that will vouch for your product.
+- make it good: "wes did an awesome job with this series etc"
+- shoptalk show - sponsorship was good
     
 ## Landing Page Copy
 
@@ -24,7 +45,9 @@
   - "Upgrade your JS Skills". "Learn React.js in just a couple of afternoons"
   - "A **premium step by step training course** to get you building *real world React.js + Firebase* apps and website components.
 
-## Email titles
+## Email 
+
+### Titles
 
 - Wesbos: https://www.youtube.com/watch?v=KBlOxBQrP9I  19mins
   - 3963 React.js Learners, JavaScript Challenges, and a quick question for you
@@ -55,3 +78,12 @@
   - http://userbase.com/
 - Philip Kiely
   - https://philipkiely.com/wfsd/
+  
+## Long Game
+
+- wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20min
+  - build a huge email list by putting up free courses
+  - it establishes credibility with numbers
+  - consistency: buy without reading website bc they loved prior work
+  - discoverability - free on youtube, signin to download exercises
+ 
