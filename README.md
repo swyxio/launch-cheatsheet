@@ -2,6 +2,22 @@
 
 how smart people launch things.
 
+## Required Reading
+
+*(thanks to @estevanmaito)*
+
+[An eBook pricing model that resulted in $100,000 in sales](https://blog.asmartbear.com/selling-ebook.html) - How you price a product can have a radical impact on the revenue you make from it. My search for the perfect pricing model resulted in an additional $50,000 (a 170% increase) in revenue. Here’s how.
+
+[Six figures in 26 hours](https://seanwes.com/podcast/199-behind-the-scenes-of-a-177803-hand-lettering-course-launch-that-made-six-figures-in-26-hours/) - Behind the Scenes of a $177,803 Hand Lettering Course Launch That Made the First Six Figures in 26 Hours
+
+[The $61,392 Book Launch That Let Me Quit My Job](https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/) - Within the first three days it generated $61,392 in revenue and gave me the confidence to quit my day job and work on my own ideas full-time. (You cited Adam, so you probably already read this, but I didn't found any mention to the email templates, so, here it is just in case)
+
+[Nailing Your First Launch - Adam Wathan](https://www.youtube.com/watch?v=ajrDxZRpP9M) - More details into the 'Refactoring to Collections' book launch
+
+[How I Made $40,000 Off A Book…Before I Even Published It.](https://medium.com/@emmabostian/how-i-made-40-000-off-a-book-before-i-even-published-it-4125ac812a94) - Every product and marketing strategy is different and will yield different outcomes. Every product serves a different market need and some are more needed than others.
+
+[How mispricing an eBook got me the wrong readers. What I learned.](https://www.indiehackers.com/post/how-mispricing-an-ebook-got-me-the-wrong-readers-what-i-learned-1db0310083) - I had to completely remove it from sales too, to fix my mistake. That's me.
+
 ## Advice
 
 - Wesbos: https://www.youtube.com/watch?v=KBlOxBQrP9I 
