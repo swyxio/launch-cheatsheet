@@ -22,6 +22,8 @@ how smart people launch things.
   - celebrate your win
 - Postlaunch:
   - think about next launch, write down what you learned
+  
+[Launch by Jeff Walker](https://www.amazon.com/Launch-Internet-Millionaires-Anything-Business/dp/1630470171) - recommended by Emma Bostian
 
 *(thanks to @estevanmaito for the below)*
 
