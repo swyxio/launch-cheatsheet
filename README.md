@@ -36,6 +36,10 @@ how smart people launch things.
     - Launch Price - 4890 already sold! live number
     - TELL THEM its good
 
+## Pricing
+
+3 tiers. 1x, 2.2x, 5x. https://twitter.com/jhooks/status/1261687440588210177/photo/1
+
 ## Affiliates
 
 - wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
@@ -62,6 +66,7 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
 - Wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20mins
   - "Upgrade your JS Skills". "Learn React.js in just a couple of afternoons"
   - "A **premium step by step training course** to get you building *real world React.js + Firebase* apps and website components.
+
 
 ## Email 
 
