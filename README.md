@@ -4,7 +4,18 @@ how smart people launch things.
 
 ## Required Reading
 
-*(thanks to @estevanmaito)*
+[Chris Guillebeau's 39 steps to launch PDF](http://100startup.com/resources/launch-checklist.pdf) and [Podcast Ep 1234](https://sidehustleschool.com/episode/1234/)
+
+- Studio start hyping their movies a year in advance - let them know whats in advance, whats the release date
+- Set a goal - if you have never launched before (get first customer? whats a good number?)
+- Build urgency - true reason for timeliness or scarcity going into the launch
+- Remember [6 factors of persuasion](https://sidehustleschool.com/classroom/#chatra): [authority, commitment and consistency, social proof](https://traffic.megaphone.fm/CAD2380931227.mp3), [liking, reciprocity, and scarcity](https://traffic.megaphone.fm/CAD3368058854.mp3).
+- Record a video or audio message to complement your written copy
+- Write copy in advance, proofread everything, **check it on mobile**
+- Test purchase your own product to make sure it works
+- Ask for help to spread the word. Your friends will help, but you have to ask.
+
+*(thanks to @estevanmaito for the below)*
 
 [An eBook pricing model that resulted in $100,000 in sales](https://blog.asmartbear.com/selling-ebook.html) - How you price a product can have a radical impact on the revenue you make from it. My search for the perfect pricing model resulted in an additional $50,000 (a 170% increase) in revenue. Here’s how.
 
