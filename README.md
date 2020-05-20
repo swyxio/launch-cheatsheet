@@ -88,6 +88,9 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
   - "Upgrade your JS Skills". "Learn React.js in just a couple of afternoons"
   - "A **premium step by step training course** to get you building *real world React.js + Firebase* apps and website components.
 
+## Launch Tweets
+
+- https://twitter.com/mddanishyusuf/status/1215947112187228161?s=20
 
 ## Email 
 
