@@ -1,6 +1,6 @@
 # launch-cheatsheet
 
-how smart people launch things.
+how smart people launch things. I'm vlogging my own launch every day leading up to June 1: https://twitter.com/Coding_Career/status/1262519814284664833?s=20
 
 ## Required Reading
 
