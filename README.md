@@ -31,6 +31,8 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 
 [Six figures in 26 hours](https://seanwes.com/podcast/199-behind-the-scenes-of-a-177803-hand-lettering-course-launch-that-made-six-figures-in-26-hours/) - Behind the Scenes of a $177,803 Hand Lettering Course Launch That Made the First Six Figures in 26 Hours
 
+[Mariah Coz presentation](https://www.notion.so/egghead/Mariah-Coz-Launch-Schedule-f1eec2e83a274bbda7a0a7c4550c4c92)
+
 [The $61,392 Book Launch That Let Me Quit My Job](https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/) - Within the first three days it generated $61,392 in revenue and gave me the confidence to quit my day job and work on my own ideas full-time. (You cited Adam, so you probably already read this, but I didn't found any mention to the email templates, so, here it is just in case)
 
 [Nailing Your First Launch - Adam Wathan](https://www.youtube.com/watch?v=ajrDxZRpP9M) - More details into the 'Refactoring to Collections' book launch
