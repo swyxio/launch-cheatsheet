@@ -94,6 +94,16 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
 - make it good: "wes did an awesome job with this series etc"
 - shoptalk show - sponsorship was good
     
+## Landing Pages
+
+https://adamwathan.me/refactoring-to-collections/
+https://course.testdrivenlaravel.com/
+http://userbase.com/
+https://philipkiely.com/wfsd/
+https://sublimetextbook.com/
+	- https://www.youtube.com/watch?v=KBlOxBQrP9I
+	- https://news.ycombinator.com/item?id=8471161
+  
 ## Landing Page Copy
 
 - Wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20mins
