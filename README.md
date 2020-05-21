@@ -2,6 +2,16 @@
 
 how smart people launch things. I'm vlogging my own launch every day leading up to June 1: https://twitter.com/Coding_Career/status/1262519814284664833?s=20
 
+## My own launch log
+
+| Date | Video |
+|------|-------|
+| T-14 | [Planning the Launch](https://www.youtube.com/watch?v=TepCcs3W3SM&feature=youtu.be)  |
+| T-13 | [Shipping a 450 page Book](https://www.youtube.com/watch?v=v1fXkP_gbwc)  |
+| T-12 | [Signing up for Stripe & Podia](https://twitter.com/Coding_Career/status/1263264236945281025)  |
+| T-11 |       |
+|      |       |
+
 ## Required Reading
 
 [Chris Guillebeau's 39 steps to launch PDF](http://100startup.com/resources/launch-checklist.pdf) and [Podcast Ep 1234](https://sidehustleschool.com/episode/1234/)
