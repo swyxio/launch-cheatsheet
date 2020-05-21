@@ -96,13 +96,13 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
     
 ## Landing Pages
 
-https://adamwathan.me/refactoring-to-collections/
-https://course.testdrivenlaravel.com/
-http://userbase.com/
-https://philipkiely.com/wfsd/
-https://sublimetextbook.com/
-	- https://www.youtube.com/watch?v=KBlOxBQrP9I
-	- https://news.ycombinator.com/item?id=8471161
+- https://adamwathan.me/refactoring-to-collections/
+- https://course.testdrivenlaravel.com/
+- http://userbase.com/
+- https://philipkiely.com/wfsd/
+- https://sublimetextbook.com/
+- https://www.youtube.com/watch?v=KBlOxBQrP9I
+- https://news.ycombinator.com/item?id=8471161
   
 ## Landing Page Copy
 
