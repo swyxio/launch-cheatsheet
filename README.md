@@ -10,7 +10,22 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | T-13 | [Shipping a 450 page Book](https://www.youtube.com/watch?v=v1fXkP_gbwc)  |
 | T-12 | [Signing up for Stripe & Podia](https://twitter.com/Coding_Career/status/1263264236945281025)  |
 | T-11 | [40 Chapters! and first edits](https://www.youtube.com/watch?v=5B7ujr-YVrk&feature=youtu.be)      |
-|      |       |
+| T-10 | [Crash course in TypeSetting](https://youtu.be/OzqskCaRyC4)      |
+| T-09 | |
+| T-08 | |
+| T-07 | |
+| T-06 | |
+| T-05 | |
+| T-04 | |
+| T-03 | |
+| T-02 | |
+| T-01 | |
+| LAUNCH | |
+| T+01 | |
+| T+03 | |
+| T+07 | |
+| T+014 | |
+| T+030 | |
 
 ## Required Reading
 
