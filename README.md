@@ -182,6 +182,10 @@ Warm wishes,
 
 - https://twitter.com/mddanishyusuf/status/1215947112187228161?s=20
 
+## Show HN posts
+
+- https://news.ycombinator.com/item?id=20478339
+
 ## Email 
 
 ### Titles
