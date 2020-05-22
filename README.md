@@ -93,6 +93,74 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
 - Find people who run podcasts that will vouch for your product.
 - make it good: "wes did an awesome job with this series etc"
 - shoptalk show - sponsorship was good
+
+## Endorsements
+
+- give 4-8 weeks with a final week followup?
+- https://www.amarketingexpert.com/step-by-step-guide-to-getting-celebrity-book-endorsements-forewords-and-early-reviews-for-your-book/
+  - book cover
+  - 1pg overview of book
+  - early reviews/endorsements
+  - table of contents
+  - 3 chapter sample
+  - prewritten forward/endorsements
+- https://writersrelief.com/2015/02/25/get-book-cover-quote-endorsement-famous-author/
+  - Introduce yourself in a personal way, then state that you’re asking for a book jacket quote.
+  - Briefly offer the details about your book: genre, story, publisher, release date.
+  - Explain why you think the author in question is a kindred spirit who might like your book. Possible reasons could be: you also like his/her writing; one of the author’s titles compares well with yours; or you both love and write about the same topics.
+  - Give the author a deadline for the potential endorsement, but offer as big a timeline as possible. 
+  - Let the author know where the blurb will be used. Will it be on your book cover, your author website, or both?
+  - Don’t forget to say thank you!
+- https://pithywordsmithery.com/2017/01/book-endorsement-quotes/
+  - Email Subject: Will you endorse my book?
+  - The introduction of the book and one or two of the best chapters, ideally put into one PDF that is marked confidential. (You should offer to send the whole manuscript, but don’t send it right away.  It could seem overwhelming to review a long document and be a turn off.)
+  - A jpeg of the cover art, if you have it.
+  - Step 1: Insert flattery while at the same time being genuine.  Bonus points if you can proactively help the person out somehow.
+  - Step 2: Draw a connection between what they do and your book.
+  - Step 3: Explain the project.
+  - Step 4: Explain what you need and provide a deadline. 
+- https://blog.reedsy.com/live/get-amazing-endorsements-book/
+
+
+<details>
+<summary>
+Example emails
+</summary>
+
+```
+Dear THEIR NAME,
+
+My name is YOUR NAME and I've recently finished a book that I think you would be interested. It's called TITLE and it's DESCRIPTION OF THE BOOK. I've attached a sample of the book here to give you a better sense of it.
+
+NOW, IN 2-3 SENTENCES, CONNECT THE BOOK TO THEIR WORK OR LET THEM KNOW WHY YOU'RE INTERESTED IN THEM OR HOW THEY INSPIRED YOU.
+
+I'd be honored if you would consider looking at the book, and if it resonates with you, providing me with an endorsement. If you'd like, I can send you a full digital or paperback version of the book, whichever you prefer.
+
+PERSONALIZED CONCLUSION LINE THAT, AGAIN, CONNECTS YOUR WORK TO THEIRS.
+
+Thanks for your time and consideration,
+
+YOUR NAME
+```
+
+```
+Hi <author name>,
+
+I loved your book <title> and found it enlightening because . . . ​<briefly explain>
+
+I have a new book coming out this winter: <title>. It’s about <brief description, just two or three sentences>. I am in the process of gathering endorsements for the jacket. Would you consider providing a testimonial? I would be happy to send you sample chapters or the entire manuscript for review—whatever you prefer. Having your support would mean a lot to me.
+
+Thanks very much for your consideration.
+
+Warm wishes,
+
+<your name>
+
+<your website link so he/she can see you’re a pro>
+```
+
+</details>
+
     
 ## Landing Pages
 
@@ -147,8 +215,9 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
   - http://userbase.com/
 - Philip Kiely
   - https://philipkiely.com/wfsd/
-  
-  
+ 
+
+
 ## Post Launch
 
 - giveaway/pay what you want? https://news.ycombinator.com/item?id=23073126
