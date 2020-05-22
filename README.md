@@ -9,7 +9,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | T-14 | [Planning the Launch](https://www.youtube.com/watch?v=TepCcs3W3SM&feature=youtu.be)  |
 | T-13 | [Shipping a 450 page Book](https://www.youtube.com/watch?v=v1fXkP_gbwc)  |
 | T-12 | [Signing up for Stripe & Podia](https://twitter.com/Coding_Career/status/1263264236945281025)  |
-| T-11 |       |
+| T-11 | [40 Chapters! and first edits](https://www.youtube.com/watch?v=5B7ujr-YVrk&feature=youtu.be)      |
 |      |       |
 
 ## Required Reading
