@@ -11,7 +11,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | T-12 | [Signing up for Stripe & Podia](https://twitter.com/Coding_Career/status/1263264236945281025)  |
 | T-11 | [40 Chapters! and first edits](https://www.youtube.com/watch?v=5B7ujr-YVrk&feature=youtu.be)      |
 | T-10 | [Crash course in TypeSetting](https://youtu.be/OzqskCaRyC4)      |
-| T-09 | |
+| T-09 | [Buying Sketchnotes!](https://youtu.be/c6fARHwCNcw) |
 | T-08 | |
 | T-07 | |
 | T-06 | |
