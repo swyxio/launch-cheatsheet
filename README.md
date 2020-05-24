@@ -186,6 +186,7 @@ Warm wishes,
 - https://sublimetextbook.com/
 - https://www.youtube.com/watch?v=KBlOxBQrP9I
 - https://news.ycombinator.com/item?id=8471161
+- https://react2025.com/
   
 ## Landing Page Copy
 
