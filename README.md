@@ -2,8 +2,32 @@
 
 how smart people launch things. I'm vlogging my own launch every day leading up to June 1: https://twitter.com/Coding_Career/status/1262519814284664833?s=20
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [My own launch log](#my-own-launch-log)
+- [Required Reading](#required-reading)
+- [Advice](#advice)
+- [Pricing](#pricing)
+- [Affiliates](#affiliates)
+- [Bundles](#bundles)
+- [Podcast Sponsorship](#podcast-sponsorship)
+- [Endorsements](#endorsements)
+- [Landing Pages](#landing-pages)
+- [Landing Page Copy](#landing-page-copy)
+- [Launch Tweets](#launch-tweets)
+- [Show HN posts](#show-hn-posts)
+- [Email](#email)
+  - [Titles](#titles)
+- [Infoproducts](#infoproducts)
+- [Post Launch](#post-launch)
+- [Long Game](#long-game)
+  - [Email](#email-1)
+  - [Twitter](#twitter)
+- [Getting Started](#getting-started)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## My own launch log
 
