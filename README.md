@@ -238,6 +238,11 @@ Warm wishes,
   - ES6 Modules, Sublime Text Power User Update and a Redux Series!
   - 2017 React.js Learners. Thank you!
 
+### Automation
+
+once purchased, move customer to a different list! don't keep selling sth they bought 
+
+
 ## Infoproducts
 
 - Wes Bos
