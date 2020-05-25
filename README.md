@@ -41,7 +41,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | T-10 | [Crash course in TypeSetting](https://youtu.be/OzqskCaRyC4)      |
 | T-09 | [Buying Sketchnotes!](https://youtu.be/c6fARHwCNcw) |
 | T-08 | [Asking for Testimonials :fire:](https://youtu.be/f_Ia2Vix20o) |
-| T-07 | |
+| T-07 | [Edit Day](https://youtu.be/fPsav4XYNbc) |
 | T-06 | |
 | T-05 | |
 | T-04 | |
