@@ -20,6 +20,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 - [Show HN posts](#show-hn-posts)
 - [Email](#email)
   - [Titles](#titles)
+  - [Automation](#automation)
 - [Infoproducts](#infoproducts)
 - [Post Launch](#post-launch)
 - [Long Game](#long-game)
