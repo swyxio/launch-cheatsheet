@@ -39,7 +39,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | T-11 | [40 Chapters! and first edits](https://www.youtube.com/watch?v=5B7ujr-YVrk&feature=youtu.be)      |
 | T-10 | [Crash course in TypeSetting](https://youtu.be/OzqskCaRyC4)      |
 | T-09 | [Buying Sketchnotes!](https://youtu.be/c6fARHwCNcw) |
-| T-08 | |
+| T-08 | [Asking for Testimonials :fire:](https://youtu.be/f_Ia2Vix20o) |
 | T-07 | |
 | T-06 | |
 | T-05 | |
