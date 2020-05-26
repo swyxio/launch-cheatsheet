@@ -215,6 +215,8 @@ Warm wishes,
 - https://www.youtube.com/watch?v=KBlOxBQrP9I
 - https://news.ycombinator.com/item?id=8471161
 - https://react2025.com/
+
+DONT LEAVE SERVICE WORKERS ON https://twitter.com/swyx/status/1265324631101026312
   
 ## Landing Page Copy
 
@@ -245,6 +247,8 @@ once purchased, move customer to a different list! don't keep selling sth they b
 
 
 ## Infoproducts
+
+Ebooks - pdf + epub + mobi is a must. stats: https://twitter.com/swyx/status/1265301477049790464?s=20
 
 - Wes Bos
   - launch story https://www.youtube.com/watch?v=KBlOxBQrP9I
