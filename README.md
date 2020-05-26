@@ -248,7 +248,12 @@ once purchased, move customer to a different list! don't keep selling sth they b
 
 ## Infoproducts
 
-Ebooks - pdf + epub + mobi is a must. stats: https://twitter.com/swyx/status/1265301477049790464?s=20
+Ebooks
+
+- pdf + epub + mobi is a must. stats: https://twitter.com/swyx/status/1265301477049790464?s=20
+- typesetting https://twitter.com/dvassallo/status/1265335246393757696?s=20
+
+people
 
 - Wes Bos
   - launch story https://www.youtube.com/watch?v=KBlOxBQrP9I
