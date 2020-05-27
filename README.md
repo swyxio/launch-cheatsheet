@@ -218,6 +218,8 @@ Warm wishes,
 
 DONT LEAVE SERVICE WORKERS ON https://twitter.com/swyx/status/1265324631101026312
   
+Landing page checklist: https://twitter.com/robhope/status/1265278107088347136  
+
 ## Landing Page Copy
 
 - Wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20mins
