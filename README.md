@@ -215,6 +215,10 @@ Warm wishes,
 - https://www.youtube.com/watch?v=KBlOxBQrP9I
 - https://news.ycombinator.com/item?id=8471161
 - https://react2025.com/
+- https://book.productionreadygraphql.com/
+- https://technicalinterviews.dev/
+- https://solidbook.io/
+- https://makebook.io/
 
 DONT LEAVE SERVICE WORKERS ON https://twitter.com/swyx/status/1265324631101026312
   
