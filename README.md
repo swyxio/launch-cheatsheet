@@ -310,6 +310,14 @@ people
   
 ## Getting Started
 
+- adam wathan https://www.youtube.com/watch?v=ajrDxZRpP9M 
+  - 8mins "help people where they already are"
+    - :fire: tips on twitter
+    - what do you already put out that people get most excited about?
+    - what have you learned from *outside* regular circles that you can bring in?
+    - where are you ahead of the curve on? pay attention to things around you
+    - what did you have to figure out yourself that would have been super helpful to past you
+  - test your idea for your product 
 - wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 37mins
   - small scale tests, blogpost, guides, downloads, see what sticks
   - do 20-30 tests
