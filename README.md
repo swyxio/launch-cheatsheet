@@ -43,7 +43,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | T-08 | [Asking for Testimonials :fire:](https://youtu.be/f_Ia2Vix20o) |
 | T-07 | [Edit Day](https://youtu.be/fPsav4XYNbc) |
 | T-06 | [Landing Page Troubles](https://youtu.be/a54oUdJAPX8) |
-| T-05 | |
+| T-05 | [A Big Win and a Big Fail](https://youtu.be/G_Y5yQdmp9E) |
 | T-04 | |
 | T-03 | |
 | T-02 | |
