@@ -16,6 +16,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 - [Endorsements](#endorsements)
 - [Landing Pages](#landing-pages)
 - [Landing Page Copy](#landing-page-copy)
+- [Launch Email](#launch-email)
 - [Launch Tweets](#launch-tweets)
 - [Show HN posts](#show-hn-posts)
 - [Email](#email)
