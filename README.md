@@ -114,7 +114,10 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 
 ## Pricing
 
-3 tiers. 1x, 2.2x, 5x. https://twitter.com/jhooks/status/1261687440588210177/photo/1
+- 3 tiers. 1x, 2.2x, 5x. https://twitter.com/jhooks/status/1261687440588210177/photo/1
+- 2 tiers - https://www.youtube.com/watch?v=ajrDxZRpP9M 34mins wesbos style - real product is 2nd tier
+- 3 tiers. 39/119/249 https://www.youtube.com/watch?v=ajrDxZRpP9M 36mins
+- 25%/35%/45% launch discount. stepped discount - bigger discount for big tiers
 
 ## Affiliates
 
@@ -208,6 +211,7 @@ Warm wishes,
 ## Landing Pages
 
 - https://adamwathan.me/refactoring-to-collections/
+- https://adamwathan.me/advanced-vue-component-design/
 - https://course.testdrivenlaravel.com/
 - http://userbase.com/
 - https://philipkiely.com/wfsd/
@@ -220,18 +224,44 @@ Warm wishes,
 - https://solidbook.io/
 - https://makebook.io/
 
-DONT LEAVE SERVICE WORKERS ON https://twitter.com/swyx/status/1265324631101026312
+
   
-Landing page checklist: https://twitter.com/robhope/status/1265278107088347136  
+Landing page checklist:
+- DONT LEAVE SERVICE WORKERS ON https://twitter.com/swyx/status/1265324631101026312
+- email signup that sends preview content for new traffic "sign up to get four free preview lessons on XXX"
+- testimonials - use feedback from your tests
+- tier from highest price to lowest price
+
 
 ## Landing Page Copy
 
+- https://twitter.com/robhope/status/1265278107088347136  
 - Wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20mins
   - "Upgrade your JS Skills". "Learn React.js in just a couple of afternoons"
   - "A **premium step by step training course** to get you building *real world React.js + Firebase* apps and website components.
 
+## Launch Email
+
+- prelaunch
+  - include all package and pricing details
+  - complete TOC list
+  - final free content preview
+- launch
+  - its done
+  - link
+- T+1
+  - email early feedback from people
+- T+x
+  - send another free preview
+- closing the launch 
+  - https://www.youtube.com/watch?v=ajrDxZRpP9M 43mins
+  - social proof
+  - DONT SPECIFY CLOSE DATE IN ADVANCE
+
 ## Launch Tweets
 
+- https://www.youtube.com/watch?v=ajrDxZRpP9M 28mins
+  - announce that you are going to announce something
 - https://twitter.com/mddanishyusuf/status/1215947112187228161?s=20
 
 ## Show HN posts
@@ -318,6 +348,17 @@ people
     - where are you ahead of the curve on? pay attention to things around you
     - what did you have to figure out yourself that would have been super helpful to past you
   - test your idea for your product 
+    - catalog feedback, reactions
+  - define the product - package up the idea
+    - written format, video course
+    - plan small. always gonna turn out bigger.
+    - email signup - promise content previews - screencasts with big discount
+  - presales
+    - https://www.youtube.com/watch?v=ajrDxZRpP9M 28mins
+      - announce that you are going to announce something
+    - share progress. send update with free content, or livestream to test out idea
+      - tweet it out, always link to landing page so ppl can sign up
+    - email once a week
 - wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 37mins
   - small scale tests, blogpost, guides, downloads, see what sticks
   - do 20-30 tests
