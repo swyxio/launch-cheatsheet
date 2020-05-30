@@ -46,7 +46,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | T-06 | [Landing Page Troubles](https://youtu.be/a54oUdJAPX8) |
 | T-05 | [A Big Win and a Big Fail](https://youtu.be/G_Y5yQdmp9E) |
 | T-04 | [Planning the final 3 days](https://www.youtube.com/watch?v=9Br-OfVEUWc) |
-| T-03 | |
+| T-03 | [Releasing v1 (release candidate 1)](https://youtu.be/G_jE_6vl-OM) |
 | T-02 | |
 | T-01 | |
 | LAUNCH | |
