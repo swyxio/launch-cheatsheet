@@ -6,7 +6,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [My own launch log](#my-own-launch-log)
+- [Launches to study](#launches-to-study)
 - [Required Reading](#required-reading)
 - [Advice](#advice)
 - [Pricing](#pricing)
