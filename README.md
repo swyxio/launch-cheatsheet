@@ -52,7 +52,8 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 Non technical infoproducts:
 
 - [Secret Sauce](https://www.secretsaucenow.com/) - [Author discussion](https://news.ycombinator.com/item?id=13877509)
-- [Make](https://makebook.io/)
+- [Make Book](https://makebook.io/) by Pieter Levels
+- [Starty Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
 
 Good meta discussions:
 
