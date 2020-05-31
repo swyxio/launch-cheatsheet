@@ -31,30 +31,23 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-## My own launch log
+## Launches to study
 
-| Date | Video |
-|------|-------|
-| T-14 | [Planning the Launch](https://www.youtube.com/watch?v=TepCcs3W3SM&feature=youtu.be)  |
-| T-13 | [Shipping a 450 page Book](https://www.youtube.com/watch?v=v1fXkP_gbwc)  |
-| T-12 | [Signing up for Stripe & Podia](https://twitter.com/Coding_Career/status/1263264236945281025)  |
-| T-11 | [40 Chapters! and first edits](https://www.youtube.com/watch?v=5B7ujr-YVrk&feature=youtu.be)      |
-| T-10 | [Crash course in TypeSetting](https://youtu.be/OzqskCaRyC4)      |
-| T-09 | [Buying Sketchnotes!](https://youtu.be/c6fARHwCNcw) |
-| T-08 | [Asking for Testimonials :fire:](https://youtu.be/f_Ia2Vix20o) |
-| T-07 | [Edit Day](https://youtu.be/fPsav4XYNbc) |
-| T-06 | [Landing Page Troubles](https://youtu.be/a54oUdJAPX8) |
-| T-05 | [A Big Win and a Big Fail](https://youtu.be/G_Y5yQdmp9E) |
-| T-04 | [Planning the final 3 days](https://www.youtube.com/watch?v=9Br-OfVEUWc) |
-| T-03 | [Releasing v1 (release candidate 1)](https://youtu.be/G_jE_6vl-OM) |
-| T-02 | |
-| T-01 | |
-| LAUNCH | |
-| T+01 | |
-| T+03 | |
-| T+07 | |
-| T+014 | |
-| T+030 | |
+| Product (and Landing Page)                                                            | Launch Links                                                                                                                                           | Results/Numbers                                                                                                 | Time Taken/Launch #        | Misc Info                                                                                     |
+|---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|----------------------------|-----------------------------------------------------------------------------------------------|
+| [Cracking the Coding Career](https://twitter.com/coding_career)                       | [Presale Tweet](https://twitter.com/swyx/status/1248664386262032384?s=20)                                                                              | ???                                                                                                             | Apr-Jun 2020. First launch | [LaunchLog](https://www.youtube.com/playlist?list=PLH8IAbt5kqZMF2PabJCxTiJhT_hAPeTUz)         |
+| [Refactoring to Collections](https://adamwathan.me/refactoring-to-collections/)       | [Tweet](https://twitter.com/adamwathan/status/748661170769383424?s=20), no HN, [PH](https://www.producthunt.com/posts/refactoring-to-collections) (33) | [61k in 3 days](https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/). 100k in 3 months. 140k in 1yr. | Feb-May 2016. First launch | Talk: [Nailing Your First Launch](https://www.youtube.com/watch?v=ajrDxZRpP9M)                |
+| [Advanced Vue Component Design](https://adamwathan.me/advanced-vue-component-design/) | to be completed                                                                                                                                        | to be completed                                                                                                 | to be completed            | to be completed                                                                               |
+| [Test Driven Laravel](https://course.testdrivenlaravel.com/)                          | to be completed                                                                                                                                        | to be completed                                                                                                 | to be completed            | to be completed                                                                               |
+| [Writing for Software Developers](https://philipkiely.com/wfsd/)                      | to be completed                                                                                                                                        | to be completed                                                                                                 | to be completed            | to be completed                                                                               |
+| [Sublime Text Book](https://sublimetextbook.com/)                                     | [HN](https://news.ycombinator.com/item?id=8471161) (163)                                                                                               | to be completed                                                                                                 | to be completed            | Talk: [Creating and Launching Your Own Products](https://www.youtube.com/watch?v=KBlOxBQrP9I) |
+| [Production Ready GraphQL](https://book.productionreadygraphql.com/)                  | to be completed                                                                                                                                        | to be completed                                                                                                 | to be completed            | to be completed                                                                               |
+| [De-Coding The Technical Interview Process](https://technicalinterviews.dev/)         | to be completed                                                                                                                                        | to be completed                                                                                                 | to be completed            | to be completed                                                                               |
+| [Solid: Software architecture & design principles](https://solidbook.io/)             | to be completed                                                                                                                                        | to be completed                                                                                                 | to be completed            | to be completed                                                                               |
+| [Make](https://makebook.io/)                                                          | to be completed                                                                                                                                        | to be completed                                                                                                 | to be completed            | to be completed                                                                               |
+|                                                                                       |                                                                                                                                                        |                                                                                                                 |                            |                                                                                               |
+| [React 2025](https://react2025.com/)                                                  |                                                                                                                                                        |                                                                                                                 |                            |                                                                                               |
+|                                                                                       |                                                                                                                                                        |                                                                                                                 |                            |                                                                                               |
 
 ## Required Reading
 
@@ -214,7 +207,6 @@ Warm wishes,
 - https://adamwathan.me/refactoring-to-collections/
 - https://adamwathan.me/advanced-vue-component-design/
 - https://course.testdrivenlaravel.com/
-- http://userbase.com/
 - https://philipkiely.com/wfsd/
 - https://sublimetextbook.com/
 - https://www.youtube.com/watch?v=KBlOxBQrP9I
