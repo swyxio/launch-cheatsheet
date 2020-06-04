@@ -43,6 +43,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | [Sublime Text Book](https://sublimetextbook.com/) | [HN](https://news.ycombinator.com/item?id=8471161) (163) | to be completed | to be completed | Talk: [Creating and Launching Your Own Products](https://www.youtube.com/watch?v=KBlOxBQrP9I) |
 | [Production Ready GraphQL](https://book.productionreadygraphql.com/) | to be completed | to be completed | to be completed | to be completed |
 | [De-Coding The Technical Interview Process](https://technicalinterviews.dev/) | to be completed | to be completed | to be completed | to be completed |
+| [The Beginner's Guide To Creating & Growing Your Blog](https://gumroad.com/l/yDvCc) | to be completed | to be completed |  |  |
 | [Solid: Software architecture & design principles](https://solidbook.io/) | to be completed | to be completed | to be completed | to be completed |
 | tbc | to be completed | to be completed | to be completed | to be completed |
 | [The Complete Guide to Rails Performance](https://www.railsspeed.com/) |  | 200k | Dec-March 2016 | [Blogpost](https://www.nateberkopec.com/blog/2017/03/10/how-i-made-self-publishing-about-ruby-on-rails.html). Used Gitbook for PDF/EPUB/MOBI |
