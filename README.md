@@ -53,11 +53,16 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 | 🔥🔥[The DynamoDB Book](https://www.dynamodbbook.com/) | Alex DeBrie | - Price: 79/129/249 with supplments, code, & video walkthrus <br /> - code "HACKERNEWS" to save $20 on Basic, $30 on Plus, or $50 on Premium<br /> - ~200k? (guess)<br /> | - Nov 2019: [AWS Data Hero, Book announcement](https://twitter.com/alexbdebrie/status/1192201430410649600?s=20)<br /> - Dec 2019: most watched re:invent talk<br /> - Jan 2020: Leaving [Serverless](https://twitter.com/alexbdebrie/status/1218267544202752000?s=20)<br /> - Feb 2020: [WIP updates](https://twitter.com/alexbdebrie/status/1224424203576913921?s=20)<br /> - Apr 7 2020: Launch [Tweet](https://twitter.com/alexbdebrie/status/1247535794216001544?s=20), [HN](https://news.ycombinator.com/item?id=22804117)<br /> - May 16 2020: [HN relaunch (worked!)](https://news.ycombinator.com/item?id=23193093)<br /> | - wrote the free [DDB Guide](https://www.dynamodbguide.com/) first<br /> - endorsement by AWS (Rick Houlihan, GM of DDB, Jeff Barr)<br /> - [Launch HN comment](https://news.ycombinator.com/item?id=23196133)<br /> - Podcasts: <br />   - [fullstack radio](https://twitter.com/alexbdebrie/status/1258757343111774210?s=20)<br />   - [serverless chats](https://twitter.com/ServerlessChats/status/1249389925541216257?s=20)<br /> |
 
 
-Non technical infoproducts:
+Other infoproducts:
 
 - [Secret Sauce](https://www.secretsaucenow.com/) - [Author discussion](https://news.ycombinator.com/item?id=13877509)
 - [Make Book](https://makebook.io/) by Pieter Levels
-- [Starty Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
+- [Start Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
+- https://radicaldesigncourse.com/
+- https://resilient-management.com/
+- templates
+  - https://demos.onepagelove.com/html/devbook/
+  - https://carrd.co/build#landing
 
 Good meta discussions:
 
