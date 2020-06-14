@@ -229,19 +229,15 @@ Warm wishes,
     
 ## Landing Pages
 
-- https://adamwathan.me/refactoring-to-collections/
-- https://adamwathan.me/advanced-vue-component-design/
-- https://course.testdrivenlaravel.com/
-- https://philipkiely.com/wfsd/
-- https://sublimetextbook.com/
+see linked landing pages above
+
 - https://www.youtube.com/watch?v=KBlOxBQrP9I
 - https://news.ycombinator.com/item?id=8471161
-- https://react2025.com/
-- https://book.productionreadygraphql.com/
-- https://technicalinterviews.dev/
-- https://solidbook.io/
-- https://makebook.io/
-
+- Rob Hope [tips at WCEU](https://onepagelove.com/understanding-landing-page-conversions)
+  1. Intro copy must resonate with the user problem
+  2. All content must answer doubts
+  3. Build trust with Testimonials
+  4. Create haste
 
   
 Landing page checklist:
