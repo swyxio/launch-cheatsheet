@@ -60,6 +60,11 @@ Other infoproducts:
 - [Start Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
 - https://radicaldesigncourse.com/
 - https://resilient-management.com/
+- https://shapeofdesignbook.com/
+- https://letsgoto.nyc/
+- https://formdesignpatterns.com/ ([smashing site](https://www.smashingmagazine.com/printed-books/form-design-patterns/))
+- https://designsystemfoundations.com/ nice ToC
+- https://www.designingui.com/
 - templates
   - https://demos.onepagelove.com/html/devbook/
   - https://carrd.co/build#landing
