@@ -1,6 +1,6 @@
 # launch-cheatsheet
 
-how smart people launch things. I'm vlogging my own launch every day leading up to June 1: https://twitter.com/Coding_Career/status/1262519814284664833?s=20
+how smart people launch things. I'm vlogging my own launch every day leading up to ~~June 1~~ (now delayed to July 1): https://twitter.com/Coding_Career/status/1262519814284664833?s=20
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -63,6 +63,7 @@ Other infoproducts:
 - templates
   - https://demos.onepagelove.com/html/devbook/
   - https://carrd.co/build#landing
+  - https://onepagelove.com/tag/book
 
 Good meta discussions:
 
