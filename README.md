@@ -55,20 +55,27 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 
 Other infoproducts:
 
-- [Secret Sauce](https://www.secretsaucenow.com/) - [Author discussion](https://news.ycombinator.com/item?id=13877509)
-- [Make Book](https://makebook.io/) by Pieter Levels
-- [Start Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
-- https://radicaldesigncourse.com/
-- https://resilient-management.com/
-- https://shapeofdesignbook.com/
-- https://letsgoto.nyc/
-- https://formdesignpatterns.com/ ([smashing site](https://www.smashingmagazine.com/printed-books/form-design-patterns/))
-- https://designsystemfoundations.com/ nice ToC
-- https://www.designingui.com/
-- templates
+- Managers
+  - https://resilient-management.com/
+- Designers
+  - That Portfolio Book https://thatbook.com/portfolio/
+  - https://shapeofdesignbook.com/
+  - https://radicaldesigncourse.com/
+  - https://letsgoto.nyc/
+  - https://designsystemfoundations.com/ nice ToC
+  - https://www.designingui.com/
+- Misc
+  - https://formdesignpatterns.com/ ([smashing site](https://www.smashingmagazine.com/printed-books/form-design-patterns/))
+  - [Secret Sauce](https://www.secretsaucenow.com/) - [Author discussion](https://news.ycombinator.com/item?id=13877509)
+  - [Make Book](https://makebook.io/) by Pieter Levels
+  - [Start Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
+  - https://seanwes.com/book/
+
+Nice Landing page templates
+
   - https://demos.onepagelove.com/html/devbook/
-  - https://carrd.co/build#landing
-  - https://onepagelove.com/tag/book
+  - https://carrd.co/build#landing (i dont love these)
+  - https://onepagelove.com/tag/book 
 
 Good meta discussions:
 
