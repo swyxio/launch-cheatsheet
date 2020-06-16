@@ -66,6 +66,7 @@ Other infoproducts:
   - https://www.designingui.com/
 - Misc
   - https://formdesignpatterns.com/ ([smashing site](https://www.smashingmagazine.com/printed-books/form-design-patterns/))
+  - [Learn AWS by Using It](https://kylegalbraith.com/learn-aws/)
   - [Secret Sauce](https://www.secretsaucenow.com/) - [Author discussion](https://news.ycombinator.com/item?id=13877509)
   - [Make Book](https://makebook.io/) by Pieter Levels
   - [Start Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
