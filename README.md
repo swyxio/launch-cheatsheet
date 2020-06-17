@@ -57,6 +57,7 @@ Other infoproducts:
 
 - Managers
   - https://resilient-management.com/
+  - https://managinghumans.com/pitch.html
 - Designers
   - That Portfolio Book https://thatbook.com/portfolio/
   - https://shapeofdesignbook.com/
