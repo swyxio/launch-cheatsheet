@@ -55,6 +55,10 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 
 Other infoproducts:
 
+- Dev products I haven't researched yet
+  - https://formdesignpatterns.com/ ([smashing site](https://www.smashingmagazine.com/printed-books/form-design-patterns/))
+  - [Learn AWS by Using It](https://kylegalbraith.com/learn-aws/)
+  - [Dracula Pro](https://draculatheme.com/pro) - [Launch Tweet](https://twitter.com/zenorocha/status/1227246901579247618), [PH](https://www.producthunt.com/posts/dracula-pro), HN flops [1](https://news.ycombinator.com/item?id=22298999), [2](https://news.ycombinator.com/item?id=22327931), [3](https://news.ycombinator.com/item?id=22848672), [third party success](https://news.ycombinator.com/item?id=22902356)
 - Managers
   - https://resilient-management.com/
   - https://managinghumans.com/pitch.html
@@ -66,8 +70,6 @@ Other infoproducts:
   - https://designsystemfoundations.com/ nice ToC
   - https://www.designingui.com/
 - Misc
-  - https://formdesignpatterns.com/ ([smashing site](https://www.smashingmagazine.com/printed-books/form-design-patterns/))
-  - [Learn AWS by Using It](https://kylegalbraith.com/learn-aws/)
   - [Secret Sauce](https://www.secretsaucenow.com/) - [Author discussion](https://news.ycombinator.com/item?id=13877509)
   - [Make Book](https://makebook.io/) by Pieter Levels
   - [Start Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
