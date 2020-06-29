@@ -86,6 +86,7 @@ Nice Landing page templates
 Good meta discussions:
 
 - https://news.ycombinator.com/item?id=13876514
+- Authority Success Stories https://www.youtube.com/watch?v=f7i-clcopwI
 
 All Adam Wathan interviews:
 
