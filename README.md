@@ -73,6 +73,7 @@ Other infoproducts:
   - [Secret Sauce](https://www.secretsaucenow.com/) - [Author discussion](https://news.ycombinator.com/item?id=13877509)
   - [Make Book](https://makebook.io/) by Pieter Levels
   - [Start Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
+  - [Zero to Sold](https://thebootstrappedfounder.com/zero-to-sold/) Arvid Kahl - [Launch Tweet](https://twitter.com/arvidkahl/status/1277573850297966592)
   - https://seanwes.com/book/
 
 Nice Landing page templates
