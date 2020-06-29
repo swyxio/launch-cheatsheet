@@ -56,6 +56,7 @@ how smart people launch things. I'm vlogging my own launch every day leading up 
 Other infoproducts:
 
 - Dev products I haven't researched yet
+  - https://reactsecurity.io/ in progress https://www.youtube.com/watch?v=zlDnK1jxYg4&list=PLlRapu2ErjJ-qSQT9fhh3wdgLU8nynzeN&index=3
   - https://formdesignpatterns.com/ ([smashing site](https://www.smashingmagazine.com/printed-books/form-design-patterns/))
   - [Learn AWS by Using It](https://kylegalbraith.com/learn-aws/)
   - [Dracula Pro](https://draculatheme.com/pro) - [Launch Tweet](https://twitter.com/zenorocha/status/1227246901579247618), [PH](https://www.producthunt.com/posts/dracula-pro), HN flops [1](https://news.ycombinator.com/item?id=22298999), [2](https://news.ycombinator.com/item?id=22327931), [3](https://news.ycombinator.com/item?id=22848672), [third party success](https://news.ycombinator.com/item?id=22902356)
