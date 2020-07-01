@@ -112,6 +112,7 @@ as solo product makers we do all 3.
   - Write copy in advance, proofread everything, **check it on mobile**
   - Test purchase your own product to make sure it works
   - Ask for help to spread the word. Your friends will help, but you have to ask.
+  - og tags: https://webcode.tools/open-graph-generator/book
 - Launch day:
   - soft launch, make sure everything working
   - post on social networks youre already active in
