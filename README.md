@@ -76,6 +76,8 @@ Other infoproducts:
   - [Start Freelancing Today](https://startfreelancing.today/) - Kelly Vaughn
   - [Zero to Sold](https://thebootstrappedfounder.com/zero-to-sold/) Arvid Kahl - [Launch Tweet](https://twitter.com/arvidkahl/status/1277573850297966592)
   - https://seanwes.com/book/
+  - iPhone https://youtu.be/xxBc1c3uAJw
+  - hey https://twitter.com/GoodMarketingHQ/status/1281592433931948033?s=20
 
 Nice Landing page templates
 
