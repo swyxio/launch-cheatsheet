@@ -64,6 +64,7 @@ Other infoproducts:
   - [Learn AWS by Using It](https://kylegalbraith.com/learn-aws/)
   - [Dracula Pro](https://draculatheme.com/pro) - [Launch Tweet](https://twitter.com/zenorocha/status/1227246901579247618), [PH](https://www.producthunt.com/posts/dracula-pro), HN flops [1](https://news.ycombinator.com/item?id=22298999), [2](https://news.ycombinator.com/item?id=22327931), [3](https://news.ycombinator.com/item?id=22848672), [third party success](https://news.ycombinator.com/item?id=22902356), [6months - 56k](https://twitter.com/zenorocha/status/1293204841804701698?s=20)
   - [Opinionated Guide to React](https://twitter.com/NikkitaFTW/status/1293576977924927488)
+  - [Cloud Native Web Development](https://www.mikenikles.com/cloud-native-web-development)
 - Managers
   - https://resilient-management.com/
   - https://managinghumans.com/pitch.html
