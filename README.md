@@ -418,3 +418,5 @@ people
   - do 20-30 tests
   - dont just copy people - "make it a thing" - bundle into a package and put a domain name on it
   - all about momentum - no home runs, grind it out
+- authority
+  - https://hiroko.io/self-publishing/
