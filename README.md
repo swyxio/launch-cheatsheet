@@ -66,7 +66,7 @@ Other infoproducts:
   - [Opinionated Guide to React](https://twitter.com/NikkitaFTW/status/1293576977924927488)
   - [Cloud Native Web Development](https://www.mikenikles.com/cloud-native-web-development)
   - [Laravel Queues in Action](https://learn-laravel-queues.com/)   https://twitter.com/themsaid/status/1298903424788987904?s=20
-
+  - https://studywebdevelopment.com/freelancing.html
 - Managers
   - https://resilient-management.com/
   - https://managinghumans.com/pitch.html
