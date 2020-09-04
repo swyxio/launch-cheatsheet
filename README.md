@@ -179,6 +179,8 @@ http://onepagelove.com/100
 - 2 tiers - https://www.youtube.com/watch?v=ajrDxZRpP9M 34mins wesbos style - real product is 2nd tier
 - 3 tiers. 39/119/249 https://www.youtube.com/watch?v=ajrDxZRpP9M 36mins
 - 25%/35%/45% launch discount. stepped discount - bigger discount for big tiers
+- https://onepagelove.com/tag/pricing-table
+- https://www.helpscout.com/blog/pricing-strategies/
 
 ## Affiliates
 
@@ -202,6 +204,8 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
 - shoptalk show - sponsorship was good
 
 ## Endorsements / Testimonials
+
+> REMEMBER: Your Landing Page with 8 testimonials does not need a 9th. Kick out the weakest of the bunch. - Rob Hope
 
 - give 4-8 weeks with a final week followup?
 - https://www.amarketingexpert.com/step-by-step-guide-to-getting-celebrity-book-endorsements-forewords-and-early-reviews-for-your-book/
@@ -274,27 +278,53 @@ Warm wishes,
     
 ## Landing Pages
 
+> 🚧 CAPTURE LEADS AS SOON AS POSSIBLE
+> MAKE THEM THINK "THESE ARE MY PEOPLE"!
+
+builders:
+
+- https://designmodo.com/startup/
+- https://unbounce.com/
+- https://carrd.co/build
+
 see linked landing pages above
 
 - https://www.youtube.com/watch?v=KBlOxBQrP9I
+- https://www.youtube.com/watch?v=vAE1Ssc56Nc
 - https://news.ycombinator.com/item?id=8471161
 - Rob Hope [tips at WCEU](https://onepagelove.com/understanding-landing-page-conversions)
   1. Intro copy must resonate with the user problem
   2. All content must answer doubts
   3. Build trust with Testimonials
   4. Create haste
+  5. DONT FORGET THE WHY.
+- rob hope checklists
+  - design https://chl.st/OObS7wYh8/
+  - dev: https://chl.st/1EgYIolYA
+  - testimonials: https://chl.st/A98R6wWCb
+  - pricing: https://chl.st/6ZJg--z0N/
+  - images: https://chl.st/RheVCrXQT/
+  - prelaunch: https://chl.st/-Xfs0vIDM/
+- FAQ Footers: https://onepagelove.com/tag/whitespace
 
   
 Landing page checklist:
+
 - DONT LEAVE SERVICE WORKERS ON https://twitter.com/swyx/status/1265324631101026312
 - email signup that sends preview content for new traffic "sign up to get four free preview lessons on XXX"
 - testimonials - use feedback from your tests
 - tier from highest price to lowest price
+- META TAGS https://metatags.io/
+- `scroll-behavior: smooth;`
+- Include a support email within error messages
+- in page demo? https://twitter.com/robhope/status/1290621775227822082
 
 
 ## Landing Page Copy
 
 - https://twitter.com/robhope/status/1265278107088347136  
+- “Your customers don’t care about your product, they care about their problems.” – Sahil Lavingia
+- keep it positive, dont snark on competitors
 - Wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20mins
   - "Upgrade your JS Skills". "Learn React.js in just a couple of afternoons"
   - "A **premium step by step training course** to get you building *real world React.js + Firebase* apps and website components.
