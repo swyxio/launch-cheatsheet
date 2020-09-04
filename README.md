@@ -201,7 +201,7 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
 - make it good: "wes did an awesome job with this series etc"
 - shoptalk show - sponsorship was good
 
-## Endorsements
+## Endorsements / Testimonials
 
 - give 4-8 weeks with a final week followup?
 - https://www.amarketingexpert.com/step-by-step-guide-to-getting-celebrity-book-endorsements-forewords-and-early-reviews-for-your-book/
@@ -227,7 +227,10 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
   - Step 3: Explain the project.
   - Step 4: Explain what you need and provide a deadline. 
 - https://blog.reedsy.com/live/get-amazing-endorsements-book/
-
+- https://onepagelove.com/requesting-testimonials
+  - Step 1: Request a detailed testimonial
+  - Step 2: Edit the testimonial, extracting highlights
+  - Step 3: Confirm the testimonial edit with your customer
 
 <details>
 <summary>
