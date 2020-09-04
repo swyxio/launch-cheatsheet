@@ -137,6 +137,8 @@ as solo product makers we do all 3.
 
 https://booklaunch.com/
 
+http://onepagelove.com/100
+
 *(thanks to @estevanmaito for the below)*
 
 [An eBook pricing model that resulted in $100,000 in sales](https://blog.asmartbear.com/selling-ebook.html) - How you price a product can have a radical impact on the revenue you make from it. My search for the perfect pricing model resulted in an additional $50,000 (a 170% increase) in revenue. Here’s how.
