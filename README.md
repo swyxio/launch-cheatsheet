@@ -13,7 +13,7 @@ how smart people launch things. My own launch was on July 1: https://twitter.com
 - [Affiliates](#affiliates)
 - [Bundles](#bundles)
 - [Podcast Sponsorship](#podcast-sponsorship)
-- [Endorsements](#endorsements)
+- [Endorsements / Testimonials](#endorsements--testimonials)
 - [Landing Pages](#landing-pages)
 - [Landing Page Copy](#landing-page-copy)
 - [Launch Email](#launch-email)
