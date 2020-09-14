@@ -67,6 +67,8 @@ Other infoproducts:
   - [Cloud Native Web Development](https://www.mikenikles.com/cloud-native-web-development)
   - [Laravel Queues in Action](https://learn-laravel-queues.com/)   https://twitter.com/themsaid/status/1298903424788987904?s=20
   - https://studywebdevelopment.com/freelancing.html
+  - https://beginnertailwind.com/
+  - https://makereactapps.com/
   - 14 habits https://news.ycombinator.com/item?id=23831851#23836501
 - Managers
   - https://resilient-management.com/
