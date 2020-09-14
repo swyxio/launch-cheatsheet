@@ -73,6 +73,8 @@ Other infoproducts:
 - Managers
   - https://resilient-management.com/
   - https://managinghumans.com/pitch.html
+- Marketers
+  - https://www.refactoringgrowth.com/
 - Designers
   - That Portfolio Book https://thatbook.com/portfolio/
   - https://shapeofdesignbook.com/
