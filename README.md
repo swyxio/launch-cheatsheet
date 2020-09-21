@@ -290,6 +290,7 @@ builders:
 - https://designmodo.com/startup/
 - https://unbounce.com/
 - https://carrd.co/build
+- https://frontendor.com/
 
 see linked landing pages above
 
