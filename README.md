@@ -192,6 +192,13 @@ http://onepagelove.com/100
   - offer high cut for affiliates. 2 week cookie.
   - the right people are key. 6-7 affiliates.
   - something shady with adblockers idk
+  
+- 5 tips referral programs https://sidehustleschool.com/episode/1360/
+  1. build referral language into a customer experience, at every touch point encourage them to tell their friends
+  2. setup formal referral program (money, discount, with a link) - beneefit can just be more of what they're already buying from you - so your costs are going to be lower
+  3. combine ongoing referral program with special promotion - eg classpass always $40 if u refer a friend, but sometimes $500 if you refer a few
+  4. make a simple ask at the conclusion of a simple interaction, if they're delighted - dont miss out 
+  5. https://www.amazon.com/Referral-Engine-Teaching-Business-Market/dp/1591844428
 
 ## Bundles
 
