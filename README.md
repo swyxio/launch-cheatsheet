@@ -320,6 +320,7 @@ see linked landing pages above
   - prelaunch: https://chl.st/-Xfs0vIDM/
 - FAQ Footers: https://onepagelove.com/tag/whitespace
 
+- b2b landing pages https://www.mikesonders.com/saas-website-content/
   
 Landing page checklist:
 
