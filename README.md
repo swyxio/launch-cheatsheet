@@ -70,6 +70,7 @@ Other infoproducts:
   - https://beginnertailwind.com/
   - https://makereactapps.com/
   - 14 habits https://news.ycombinator.com/item?id=23831851#23836501
+  - Designing Data Intensive Applications https://martin.kleppmann.com/2020/09/29/is-book-writing-worth-it.html
 - Managers
   - https://resilient-management.com/
   - https://managinghumans.com/pitch.html
