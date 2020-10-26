@@ -112,6 +112,8 @@ All Adam Wathan interviews:
 
 ## Required Reading
 
+- https://writeusefulbooks.com/ from Rob Fitzpatrick
+
 [Gabriel Mercer on the SPF podcast](https://selfpublishingformula.com/tag/gabriel-mercer/) adopts [Tony Robbins' Business Mastery roles](https://www.linkedin.com/pulse/my-notes-tony-robbins-business-mastery-january-2018-jimmy-rex):
 
 - There are three roles in creating things: Talent (making things), Manager (growing things), Entrepreneur (taking risk).
