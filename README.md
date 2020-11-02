@@ -184,8 +184,8 @@ http://onepagelove.com/100
 ## Pricing
 
 - 3 tiers. 1x, 2.2x, 5x. https://twitter.com/jhooks/status/1261687440588210177/photo/1
-- 2 tiers - https://www.youtube.com/watch?v=ajrDxZRpP9M 34mins wesbos style - real product is 2nd tier
-- 3 tiers. 39/119/249 https://www.youtube.com/watch?v=ajrDxZRpP9M 36mins
+- 2 tiers - http://www.youtube.com/watch?v=ajrDxZRpP9M&t=34m0s (34mins) wesbos style - real product is 2nd tier
+- 3 tiers. 39/119/249 http://www.youtube.com/watch?v=ajrDxZRpP9M&t=36m0s (36mins)
 - 25%/35%/45% launch discount. stepped discount - bigger discount for big tiers
 - https://onepagelove.com/tag/pricing-table
 - https://www.helpscout.com/blog/pricing-strategies/
@@ -342,7 +342,7 @@ Landing page checklist:
 - https://twitter.com/robhope/status/1265278107088347136  
 - “Your customers don’t care about your product, they care about their problems.” – Sahil Lavingia
 - keep it positive, dont snark on competitors
-- Wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20mins
+- Wesbos http://www.youtube.com/watch?v=KBlOxBQrP9I&t=20m0s (20mins)
   - "Upgrade your JS Skills". "Learn React.js in just a couple of afternoons"
   - "A **premium step by step training course** to get you building *real world React.js + Firebase* apps and website components.
 
@@ -360,13 +360,13 @@ Landing page checklist:
 - T+x
   - send another free preview
 - closing the launch 
-  - https://www.youtube.com/watch?v=ajrDxZRpP9M 43mins
+  - http://www.youtube.com/watch?v=ajrDxZRpP9M&t=43m0s (43mins)
   - social proof
   - DONT SPECIFY CLOSE DATE IN ADVANCE
 
 ## Launch Tweets
 
-- https://www.youtube.com/watch?v=ajrDxZRpP9M 28mins
+- http://www.youtube.com/watch?v=ajrDxZRpP9M&t=28m0s (28mins)
   - announce that you are going to announce something
 - https://twitter.com/mddanishyusuf/status/1215947112187228161?s=20
 
@@ -378,7 +378,7 @@ Landing page checklist:
 
 ### Titles
 
-- Wesbos: https://www.youtube.com/watch?v=KBlOxBQrP9I  19mins
+- Wesbos: http://www.youtube.com/watch?v=KBlOxBQrP9I&t=19m0s  (19mins)
   - 3963 React.js Learners, JavaScript Challenges, and a quick question for you
   - ES6 Modules, Sublime Text Power User Update and a Redux Series!
   - 2017 React.js Learners. Thank you!
@@ -430,7 +430,7 @@ people
 
 ### Email
 
-- wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 20min
+- wesbos http://www.youtube.com/watch?v=KBlOxBQrP9I&t=20m0s (20min)
   - build a huge email list by putting up free courses
   - it establishes credibility with numbers
   - consistency: buy without reading website bc they loved prior work
@@ -438,7 +438,7 @@ people
     
 ### Twitter
  
-- wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 34min
+- wesbos http://www.youtube.com/watch?v=KBlOxBQrP9I&t=34m0s (34min)
   - twitter: bring value TO twitter. they want to stay on twitter
     - hot tips :fire: nuggets
   - creating content for your specific medium builds an audience that both trusts you and is hungry for more
@@ -446,7 +446,7 @@ people
   
 ## Getting Started
 
-- adam wathan https://www.youtube.com/watch?v=ajrDxZRpP9M 
+- adam wathan http://www.youtube.com/watch?v=ajrDxZRpP9M
   - 8mins "help people where they already are"
     - :fire: tips on twitter
     - what do you already put out that people get most excited about?
@@ -460,12 +460,12 @@ people
     - plan small. always gonna turn out bigger.
     - email signup - promise content previews - screencasts with big discount
   - presales
-    - https://www.youtube.com/watch?v=ajrDxZRpP9M 28mins
+    - http://www.youtube.com/watch?v=ajrDxZRpP9M&t=28m0s (28mins)
       - announce that you are going to announce something
     - share progress. send update with free content, or livestream to test out idea
       - tweet it out, always link to landing page so ppl can sign up
     - email once a week
-- wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I 37mins
+- wesbos http://www.youtube.com/watch?v=KBlOxBQrP9I&t=37m0s (37mins)
   - small scale tests, blogpost, guides, downloads, see what sticks
   - do 20-30 tests
   - dont just copy people - "make it a thing" - bundle into a package and put a domain name on it
