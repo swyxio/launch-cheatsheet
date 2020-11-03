@@ -1,4 +1,4 @@
-# launch-cheatsheet
+russel # launch-cheatsheet
 
 how smart people launch things. My own launch was on July 1: https://twitter.com/swyx/status/1278305371610771456?s=20
 
@@ -184,6 +184,7 @@ http://onepagelove.com/100
 ## Pricing
 
 - 3 tiers. 1x, 2.2x, 5x. https://twitter.com/jhooks/status/1261687440588210177/photo/1
+- 3 tier [Do It Yourself, Done With You, Done For You](https://www.listennotes.com/podcasts/the-marketing/do-it-yourself-done-with-you-C23KbqDyeQu/) pricing
 - 2 tiers - http://www.youtube.com/watch?v=ajrDxZRpP9M&t=34m0s (34mins) wesbos style - real product is 2nd tier
 - 3 tiers. 39/119/249 http://www.youtube.com/watch?v=ajrDxZRpP9M&t=36m0s (36mins)
 - 25%/35%/45% launch discount. stepped discount - bigger discount for big tiers
