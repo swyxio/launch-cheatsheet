@@ -1,4 +1,4 @@
-russel # launch-cheatsheet
+# launch-cheatsheet
 
 how smart people launch things. My own launch was on July 1: https://twitter.com/swyx/status/1278305371610771456?s=20
 
