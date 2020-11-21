@@ -60,6 +60,7 @@ how smart people launch things. My own launch was on July 1: https://twitter.com
 Other infoproducts:
 
 - Dev products I haven't researched yet
+  - https://debuggingcss.com/ 
   - https://reactsecurity.io/ in progress https://www.youtube.com/watch?v=zlDnK1jxYg4&list=PLlRapu2ErjJ-qSQT9fhh3wdgLU8nynzeN&index=3
   - https://formdesignpatterns.com/ ([smashing site](https://www.smashingmagazine.com/printed-books/form-design-patterns/))
   - [Learn AWS by Using It](https://kylegalbraith.com/learn-aws/)
