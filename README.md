@@ -27,6 +27,7 @@ how smart people launch things. My own launch was on July 1: https://twitter.com
 - [Long Game](#long-game)
   - [Email](#email-1)
   - [Twitter](#twitter)
+  - [Sales](#sales)
 - [Getting Started](#getting-started)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
