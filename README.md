@@ -446,6 +446,10 @@ people
   - creating content for your specific medium builds an audience that both trusts you and is hungry for more
   - as a creator you want to be on people's radars - say thanks, you open up dialog to get to know them better. textexpander snippet to give random thanks
   
+### Sales
+
+- https://www.coryzue.com/writing/black-friday/
+  
 ## Getting Started
 
 - adam wathan http://www.youtube.com/watch?v=ajrDxZRpP9M
