@@ -189,6 +189,7 @@ http://onepagelove.com/100
 - 3 tier [Do It Yourself, Done With You, Done For You](https://www.listennotes.com/podcasts/the-marketing/do-it-yourself-done-with-you-C23KbqDyeQu/) pricing
 - 2 tiers - http://www.youtube.com/watch?v=ajrDxZRpP9M&t=34m0s (34mins) wesbos style - real product is 2nd tier
 - 3 tiers. 39/119/249 http://www.youtube.com/watch?v=ajrDxZRpP9M&t=36m0s (36mins)
+- 3 tiers. 29/99/249 https://blog.asmartbear.com/selling-ebook.html
 - 25%/35%/45% launch discount. stepped discount - bigger discount for big tiers
 - https://onepagelove.com/tag/pricing-table
 - https://www.helpscout.com/blog/pricing-strategies/
