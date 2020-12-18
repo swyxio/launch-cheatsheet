@@ -193,6 +193,7 @@ http://onepagelove.com/100
 - 25%/35%/45% launch discount. stepped discount - bigger discount for big tiers
 - https://onepagelove.com/tag/pricing-table
 - https://www.helpscout.com/blog/pricing-strategies/
+- https://convertkit.com/ebook-pricing
 
 ## Affiliates
 
