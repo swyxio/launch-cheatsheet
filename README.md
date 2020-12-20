@@ -95,14 +95,6 @@ Other infoproducts:
   - iPhone https://youtu.be/xxBc1c3uAJw
   - hey https://twitter.com/GoodMarketingHQ/status/1281592433931948033?s=20
 
-
-
-Nice Landing page templates
-
-  - https://demos.onepagelove.com/html/devbook/
-  - https://carrd.co/build#landing (i dont love these)
-  - https://onepagelove.com/tag/book 
-
 Good meta discussions:
 
 - https://news.ycombinator.com/item?id=13876514
@@ -307,6 +299,14 @@ builders:
 - https://unbounce.com/
 - https://carrd.co/build
 - https://frontendor.com/
+- https://gumroad.com/l/devbook-theme
+
+
+Nice Landing page templates
+
+  - https://demos.onepagelove.com/html/devbook/
+  - https://carrd.co/build#landing (i dont love these)
+  - https://onepagelove.com/tag/book 
 
 see linked landing pages above
 
