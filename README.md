@@ -174,6 +174,14 @@ http://onepagelove.com/100
     - Sell hard but not too hard - social proof works
     - Launch Price - 4890 already sold! live number
     - TELL THEM its good
+- https://www.katedoster.com/7-key-elements-of-a-successful-launch/
+  - Don't just launch out of nowhere - as simple as "next week email" or a launch trigger - webinar, challenge,
+  - Bigger isn't always better - which will you actually do? Like really?
+  - Be more excited for them then your product
+  - Have an audience booster close to your launch (if you can)
+  - Have some type of urgency/ scarcity
+  - Email more than once--- seriously.
+  - Have faith & leave room for miracles and fun
 
 ## Pricing
 
