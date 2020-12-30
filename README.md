@@ -407,6 +407,9 @@ Ebooks
 
 - pdf + epub + mobi is a must. stats: https://twitter.com/swyx/status/1265301477049790464?s=20
 - typesetting https://twitter.com/dvassallo/status/1265335246393757696?s=20
+- Proofreading
+  - Tech Resume Inside Out - 1.25c per word, $800 for 80k words
+  - [Zero to Sold](https://thebootstrappedfounder.com/how-i-self-published-zero-to-sold-a-bestselling-book-on-bootstrapping/) - Reedsy 100k words for $3k + 2.3k final editor + 800 for proofreader
 
 people
 
