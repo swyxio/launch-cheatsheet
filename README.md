@@ -141,12 +141,13 @@ https://booklaunch.com/
 
 http://onepagelove.com/100
 
-Austen Allred's book talk https://www.youtube.com/watch?v=6key9jl9w8Q
+Austen Allred's [Secret Sauce](https://www.secretsaucenow.com/) book talk https://www.youtube.com/watch?v=6key9jl9w8Q
 
 - 100x content on reddit
 - all biggest second-tier publications in Medium
 - Invite Queue - viral waiting list
 - Twitter - follow liker, thunderclap
+- some misc growth hacks for kickstarter
 
 *(thanks to @estevanmaito for the below)*
 
