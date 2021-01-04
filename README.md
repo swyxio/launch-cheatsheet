@@ -1,6 +1,6 @@
 # launch-cheatsheet
 
-how smart people launch things. My own launch was on July 1: https://twitter.com/swyx/status/1278305371610771456?s=20
+how smart people launch things. My own launch was on [July 1](https://twitter.com/swyx/status/1278305371610771456?s=20).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -140,6 +140,8 @@ as solo product makers we do all 3.
 https://booklaunch.com/
 
 http://onepagelove.com/100
+
+Austen Allred's book talk https://www.youtube.com/watch?v=6key9jl9w8Q
 
 *(thanks to @estevanmaito for the below)*
 
