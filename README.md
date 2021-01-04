@@ -143,6 +143,11 @@ http://onepagelove.com/100
 
 Austen Allred's book talk https://www.youtube.com/watch?v=6key9jl9w8Q
 
+- 100x content on reddit
+- all biggest second-tier publications in Medium
+- Invite Queue - viral waiting list
+- Twitter - follow liker, thunderclap
+
 *(thanks to @estevanmaito for the below)*
 
 [An eBook pricing model that resulted in $100,000 in sales](https://blog.asmartbear.com/selling-ebook.html) - How you price a product can have a radical impact on the revenue you make from it. My search for the perfect pricing model resulted in an additional $50,000 (a 170% increase) in revenue. Here’s how.
