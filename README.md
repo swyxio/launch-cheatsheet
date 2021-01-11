@@ -356,6 +356,7 @@ Landing page checklist:
 - `scroll-behavior: smooth;`
 - Include a support email within error messages
 - in page demo? https://twitter.com/robhope/status/1290621775227822082
+- show value isntantly https://www.weskao.com/blog/how-to-instantly-show-your-value
 
 
 ## Landing Page Copy
