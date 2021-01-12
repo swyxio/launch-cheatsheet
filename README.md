@@ -127,6 +127,7 @@ as solo product makers we do all 3.
   - Test purchase your own product to make sure it works
   - Ask for help to spread the word. Your friends will help, but you have to ask.
   - og tags: https://webcode.tools/open-graph-generator/book
+  - book cover: https://convertkit.com/how-to-make-an-ebook-cover
 - Launch day:
   - soft launch, make sure everything working
   - post on social networks youre already active in
