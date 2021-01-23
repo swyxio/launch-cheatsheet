@@ -359,6 +359,7 @@ Landing page checklist:
 - in page demo? https://twitter.com/robhope/status/1290621775227822082
 - show value isntantly https://www.weskao.com/blog/how-to-instantly-show-your-value
 - 10 tips from rob hope https://blog.emailoctopus.com/10-powerful-conversion-tips-for-a-better-newsletter-landing-page/
+- harry dry's list https://marketingexamples.com/conversion/landing-page-guide
 
 
 ## Landing Page Copy
