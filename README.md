@@ -166,6 +166,8 @@ Austen Allred's [Secret Sauce](https://www.secretsaucenow.com/) book talk https:
 
 [How mispricing an eBook got me the wrong readers. What I learned.](https://www.indiehackers.com/post/how-mispricing-an-ebook-got-me-the-wrong-readers-what-i-learned-1db0310083) - I had to completely remove it from sales too, to fix my mistake. That's me.
 
+[Mythbusting the best-practices of best-selling nonfiction, with April Dunford](https://www.youtube.com/watch?v=EItZl7kleeI&feature=emb_title) - with Rob Fitzpatrick
+
 ## Advice
 
 - Wesbos: https://www.youtube.com/watch?v=KBlOxBQrP9I 
