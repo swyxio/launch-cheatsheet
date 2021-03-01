@@ -15,6 +15,7 @@ how smart people launch things. My own launch was on [July 1](https://twitter.co
 - [Podcast Sponsorship](#podcast-sponsorship)
 - [Endorsements / Testimonials](#endorsements--testimonials)
 - [Landing Pages](#landing-pages)
+- [Community Landing Pages](#community-landing-pages)
 - [Landing Page Copy](#landing-page-copy)
 - [Launch Email](#launch-email)
 - [Launch Tweets](#launch-tweets)
