@@ -363,6 +363,22 @@ Landing page checklist:
 - 10 tips from rob hope https://blog.emailoctopus.com/10-powerful-conversion-tips-for-a-better-newsletter-landing-page/
 - harry dry's list https://marketingexamples.com/conversion/landing-page-guide
 
+## Community Landing Pages
+
+- https://www.smartpassiveincome.com/pro/
+- https://bloggingfordevs.com/
+- https://nesslabs.com/membership
+
+
+**What they do well **
+
+- The headline tells visitors exactly who the community is for. "Curious minds"; "Developers without an existing audience". 
+- Benefit-focused copy that addresses member's tangible and aspirational goals. People don't join a community to receive features or attend events. They want to learn new things, increase productivity, or feel more confident. 
+- Social proof through result-focused testimonials, real-time stats, community previews or videos. They show us what success looks like for existing members, and what we can expect to find once inside.
+- A single call to action gives people a clear path to get started. Whether it's applying before X date, leaving an email address, or subscribing right away, we know exactly what step to take.
+- ... and a personal touch. A community landing page that reflects your personality will inevitably stand out. Sharing a bit about who you are and why you care goes a long way in helping people trust you –– and decide to join your community!
+
+- Donald Miller's Building a Storybrand. https://www.toptal.com/designers/ux/storybrand-framework
 
 ## Landing Page Copy
 
