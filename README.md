@@ -240,6 +240,7 @@ wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
 
 > REMEMBER: Your Landing Page with 8 testimonials does not need a 9th. Kick out the weakest of the bunch. - Rob Hope
 
+- use https://helpthisbook.com/ for reviews? (its new)
 - give 4-8 weeks with a final week followup?
 - https://www.amarketingexpert.com/step-by-step-guide-to-getting-celebrity-book-endorsements-forewords-and-early-reviews-for-your-book/
   - book cover
