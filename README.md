@@ -170,6 +170,8 @@ Austen Allred's [Secret Sauce](https://www.secretsaucenow.com/) book talk https:
 
 [Mythbusting the best-practices of best-selling nonfiction, with April Dunford](https://www.youtube.com/watch?v=EItZl7kleeI&feature=emb_title) - with Rob Fitzpatrick
 
+[the Ladybug team on selling ebooks](https://www.ladybug.dev/episodes/writing-ebooks) - self publishing, software, selling, pricing
+
 ## Advice
 
 - Wesbos: https://www.youtube.com/watch?v=KBlOxBQrP9I 
