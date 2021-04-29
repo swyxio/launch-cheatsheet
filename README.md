@@ -351,7 +351,7 @@ see linked landing pages above
   - images: https://chl.st/RheVCrXQT/
   - prelaunch: https://chl.st/-Xfs0vIDM/
 - FAQ Footers: https://onepagelove.com/tag/whitespace
-
+- course landing oage breakdown https://twitter.com/robhope/status/1387436455400656898?s=21
 - b2b landing pages https://www.mikesonders.com/saas-website-content/
   
 Landing page checklist:
