@@ -367,6 +367,7 @@ Landing page checklist:
 - show value isntantly https://www.weskao.com/blog/how-to-instantly-show-your-value
 - 10 tips from rob hope https://blog.emailoctopus.com/10-powerful-conversion-tips-for-a-better-newsletter-landing-page/
 - harry dry's list https://marketingexamples.com/conversion/landing-page-guide
+- more landing page advice https://blog.roastmylandingpage.com/landing-page-roasts/
 
 ## Community Landing Pages
 
