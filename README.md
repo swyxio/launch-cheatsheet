@@ -311,7 +311,18 @@ Warm wishes,
 
 </details>
 
+### Testimonial paid services
+
+more for b2b saas
+
+- https://testimonial.space/#testimonial
+- https://www.testimonialhero.com/
     
+## Branding
+
+- https://yourenotadesigner.com/
+- 99 designs
+
 ## Landing Pages
 
 > 🚧 CAPTURE LEADS AS SOON AS POSSIBLE
