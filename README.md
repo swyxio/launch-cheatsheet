@@ -512,7 +512,11 @@ people
 ### Sales
 
 - https://www.coryzue.com/writing/black-friday/
-  
+
+### Repurposing
+
+- https://www.useprocket.com/
+
 ## Getting Started
 
 - adam wathan http://www.youtube.com/watch?v=ajrDxZRpP9M
