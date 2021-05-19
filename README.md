@@ -31,6 +31,7 @@ how smart people launch things. My own launch was on [July 1](https://twitter.co
   - [Email](#email-1)
   - [Twitter](#twitter)
   - [Sales](#sales)
+  - [Repurposing](#repurposing)
 - [Getting Started](#getting-started)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
