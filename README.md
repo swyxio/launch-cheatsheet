@@ -324,7 +324,10 @@ more for b2b saas
 ## Branding
 
 - https://yourenotadesigner.com/
-- 99 designs
+- https://99designs.com.sg/ contest based, controversial
+- https://www.designcrowd.com/ contest based design
+- https://www.designhill.com/ A creative marketplace with over 150K designers (and nearly as many clients). They feature both competitions and normal gigs. 
+- https://www.yunojuno.com/ creative freelancers marketplace
 
 ## Landing Pages
 
