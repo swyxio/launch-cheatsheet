@@ -100,6 +100,7 @@ Other infoproducts:
   - https://seanwes.com/book/
   - iPhone https://youtu.be/xxBc1c3uAJw
   - hey https://twitter.com/GoodMarketingHQ/status/1281592433931948033?s=20
+  - https://youtu.be/5sA_EEr9MJ4
 
 Good meta discussions:
 
