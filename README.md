@@ -356,6 +356,7 @@ see linked landing pages above
 - https://www.youtube.com/watch?v=KBlOxBQrP9I
 - https://www.youtube.com/watch?v=vAE1Ssc56Nc
 - https://news.ycombinator.com/item?id=8471161
+- https://twitter.com/jmoserr/status/1402635598423199756?s=21
 - Rob Hope [tips at WCEU](https://onepagelove.com/understanding-landing-page-conversions)
   1. Intro copy must resonate with the user problem
   2. All content must answer doubts
