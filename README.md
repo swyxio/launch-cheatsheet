@@ -215,6 +215,12 @@ Austen Allred's [Secret Sauce](https://www.secretsaucenow.com/) book talk https:
 - https://www.helpscout.com/blog/pricing-strategies/
 - https://convertkit.com/ebook-pricing
 
+Tax info
+
+- VAT: https://twitter.com/vvoyer/status/1347488977738149888?s=20
+- alternatives to Stripe https://news.ycombinator.com/item?id=27461196
+- Stripe liability (or lack of) https://news.ycombinator.com/item?id=27461608
+
 ## Affiliates
 
 - wesbos https://www.youtube.com/watch?v=KBlOxBQrP9I
