@@ -206,6 +206,7 @@ Austen Allred's [Secret Sauce](https://www.secretsaucenow.com/) book talk https:
 ## Pricing
 
 - 3 tiers. 1x, 2.2x, 5x. https://twitter.com/jhooks/status/1261687440588210177/photo/1
+- 3 pronged pricing https://copywritingcourse.com/the-three-pronged-pricing-technique/
 - 3 tier [Do It Yourself, Done With You, Done For You](https://www.listennotes.com/podcasts/the-marketing/do-it-yourself-done-with-you-C23KbqDyeQu/) pricing
 - 2 tiers - http://www.youtube.com/watch?v=ajrDxZRpP9M&t=34m0s (34mins) wesbos style - real product is 2nd tier
 - 3 tiers. 39/119/249 http://www.youtube.com/watch?v=ajrDxZRpP9M&t=36m0s (36mins)
@@ -214,6 +215,9 @@ Austen Allred's [Secret Sauce](https://www.secretsaucenow.com/) book talk https:
 - https://onepagelove.com/tag/pricing-table
 - https://www.helpscout.com/blog/pricing-strategies/
 - https://convertkit.com/ebook-pricing
+
+Pricing page swipe file
+- https://swipefile.com/pricing/
 
 Tax info
 
