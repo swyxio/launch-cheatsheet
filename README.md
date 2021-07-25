@@ -383,6 +383,39 @@ see linked landing pages above
 - FAQ Footers: https://onepagelove.com/tag/whitespace
 - course landing oage breakdown https://twitter.com/robhope/status/1387436455400656898?s=21
 - b2b landing pages https://www.mikesonders.com/saas-website-content/
+ 
+<details>
+<summary>
+Landing page section ideas
+</summary>
+
+​[Bold statement showing what can be done]​
+​[Video] (optional)​
+​[Personal story how the product helped]​
+​[Show why they need it]​
+​[Problem the product solves]​
+​[Show what will happen if they don’t have it]​
+​[Testimonials]​
+​[Show different uses for the product]​
+​[What’s included in the product]​
+​[Personal stories]​
+​[Justify the price]​
+​[Industry Statistics]​
+​[Success case study]​
+​[Show the pricing options]​
+​[Satisfaction guarantee]​
+​[Justify the pricing even more]​
+​[How much better life will be with the product]​
+​[Pricing info]​
+​[Frequently Asked Questions]​
+​[Address Objections]​
+​[Contact Info]​
+​[About the creator]
+
+
+</details>
+
+  
   
 Landing page checklist:
 
