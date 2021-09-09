@@ -101,6 +101,7 @@ Other infoproducts:
   - iPhone https://youtu.be/xxBc1c3uAJw
   - hey https://twitter.com/GoodMarketingHQ/status/1281592433931948033?s=20
   - https://youtu.be/5sA_EEr9MJ4
+  - Product Hunt launch tips from Derrick Reimer https://microconfpodcast.com/episodes/microconf-refresh-episode-36-reaching-the-top-of-product-hunt-with-derrick-reimer
 
 Good meta discussions:
 
