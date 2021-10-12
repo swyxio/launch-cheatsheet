@@ -416,7 +416,8 @@ Landing page section ideas
 
 </details>
 
-  Storybrand formula
+  [Storybrand formula](https://github.com/sw-yx/launch-cheatsheet/issues/5#issuecomment-941208839)
+  https://docs.google.com/presentation/d/1bKxm-LCspCyRYUcar8IrteaGECcNjBLBhOCDNCMFpak/edit?usp=sharing
   ![image](https://user-images.githubusercontent.com/6764957/137000397-c6d2fd5d-5e4f-4f63-83b9-72b863ccd562.png)
 ![image](https://user-images.githubusercontent.com/6764957/137000502-ee1b806b-d1a9-40be-a6dd-caab47f74042.png)
 
