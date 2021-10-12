@@ -416,7 +416,8 @@ Landing page section ideas
 
 </details>
 
-  
+  ![image](https://user-images.githubusercontent.com/6764957/137000397-c6d2fd5d-5e4f-4f63-83b9-72b863ccd562.png)
+
   
 Landing page checklist:
 
