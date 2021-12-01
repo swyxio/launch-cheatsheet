@@ -1,3 +1,5 @@
+> this list is now archived - look inside https://github.com/sw-yx/brain if you would like an updated list! thank you.
+
 # launch-cheatsheet
 
 how smart people launch things. My own launch was on [July 1](https://twitter.com/swyx/status/1278305371610771456?s=20).
